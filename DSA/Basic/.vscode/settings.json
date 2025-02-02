@@ -11,6 +11,7 @@
         "chrono": "cpp",
         "random": "cpp",
         "limits": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "fstream": "cpp"
     }
 }
